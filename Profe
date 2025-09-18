@@ -6,7 +6,7 @@ package poop4j;
 
 /**
  *
- * @author poo02alu19
+ * @author Gabri
  */
 public class Profesor {
     String materiaImparte;
